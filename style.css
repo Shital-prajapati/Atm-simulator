@@ -1,0 +1,33 @@
+
+body {
+    background-color: #486588;
+    font-family:'Times New Roman', Times, serif;
+}
+.atm-container {
+    max-width: 600px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    text-align: center;
+}
+.atm-container h2 {
+    margin-bottom: 30px;
+    color:palevioletred;
+}
+.btn {
+    margin: 10px;
+    color: purple;
+    border-radius: 5px;
+}
+.form-group{
+    color: purple;
+    font-weight: bold;
+    font-size: large;
+}
+#balanceDisplay{
+    color:palevioletred;
+    font-weight: bold;
+    font-size: large;
+}
